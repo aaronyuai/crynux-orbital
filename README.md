@@ -14,14 +14,11 @@
 ---
 - [Quickstarter](#quickstarter)
 - [Introduction](#introduction)
-- 
-- [Installation](#installation)
-  - [Before you proceed](#before-you-proceed)
-  - [Install](#install)
-- [Writing your own incentive mechanism](#writing-your-own-incentive-mechanism)
-- [Writing your own subnet API](#writing-your-own-subnet-api)
-- [Subnet Links](#subnet-links)
-- [License](#license)
+- [Decentralized Retrieval Augmented Learning](#decentralized-retrieval-augmented-learning-derag)
+  - [Example](#example)
+  - [Solution](#how-do-we-solve-the-problem)
+  - [Validator](#validator)
+  - [Miner](#miner)
 
 ---
 ## Quickstarter
